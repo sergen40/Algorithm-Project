@@ -1,0 +1,1591 @@
+{
+    "prof": [
+        {
+            "id": 1,
+            "name": "Victor"
+        },
+        {
+            "id": 2,
+            "name": "Red"
+        },
+        {
+            "id": 3,
+            "name": "Philip"
+        },
+        {
+            "id": 4,
+            "name": "Marry"
+        },
+        {
+            "id": 5,
+            "name": "Don"
+        },
+        {
+            "id": 6,
+            "name": "Mark"
+        },
+        {
+            "id": 7,
+            "name": "Peter"
+        },
+        {
+            "id": 8,
+            "name": "John"
+        },
+        {
+            "id": 9,
+            "name": "Ben"
+        },
+        {
+            "id": 10,
+            "name": "Mike"
+        },
+        {
+            "id": 11,
+            "name": "Mike1"
+        },
+        {
+            "id": 12,
+            "name": "Mike2"
+        },
+        {
+            "id": 13,
+            "name": "Mike3"
+        },
+        {
+            "id": 14,
+            "name": "Mike"
+        },
+        {
+            "id": 15,
+            "name": "Mike"
+        },
+        {
+            "id": 16,
+            "name": "Mike"
+        },
+        {
+            "id": 17,
+            "name": "Mike"
+        },
+        {
+            "id": 18,
+            "name": "Mike"
+        },
+        {
+            "id": 19,
+            "name": "Mike"
+        },
+        {
+            "id": 20,
+            "name": "Mike"
+        },
+        {
+            "id": 21,
+            "name": "Mike"
+        },
+        {
+            "id": 22,
+            "name": "Mike"
+        },
+        {
+            "id": 23,
+            "name": "Mike"
+        },
+        {
+            "id": 24,
+            "name": "Mike"
+        },
+        {
+            "id": 25,
+            "name": "Mike"
+        },
+        {
+            "id": 26,
+            "name": "Mike"
+        },
+        {
+            "id": 27,
+            "name": "Mike"
+        },
+        {
+            "id": 28,
+            "name": "Mike"
+        },
+        {
+            "id": 29,
+            "name": "Mike"
+        },
+        {
+            "id": 30,
+            "name": "Mike"
+        },
+        {
+            "id": 31,
+            "name": "Mike"
+        },
+        {
+            "id": 32,
+            "name": "Mike"
+        },
+        {
+            "id": 33,
+            "name": "Mike"
+        },
+        {
+            "id": 34,
+            "name": "Mike"
+        },
+        {
+            "id": 35,
+            "name": "Mike"
+        },
+        {
+            "id": 36,
+            "name": "Mike"
+        },
+        {
+            "id": 37,
+            "name": "Mike"
+        },
+        {
+            "id": 38,
+            "name": "Mike"
+        },
+        {
+            "id": 39,
+            "name": "Mike"
+        },
+        {
+            "id": 40,
+            "name": "Mike"
+        }
+    ],
+    "course": [
+        {
+            "code": "ENG101-CENG",
+            "name": "Academic English",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MATH101-CENG",
+            "name": "Calculus 1",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG113",
+            "name": "COMPUTER PROGRAMMING 1",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CHEM101-CENG",
+            "name": "INTRODUCTION TO COMPUTER ENGINEERING",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS101-CENG",
+            "name": "PHYSICS I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS103-CENG",
+            "name": "PHYSICS LABORATORY I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TİT101-CENG",
+            "name": "TÜRK İNKILAP TARİHİ I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TDL101-CENG",
+            "name": "TÜRK DİLİ I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENG102-CENG",
+            "name": "ACADEMIC ENGLISH II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MATH104",
+            "name": "APPLIED LINEAR ALGEBRA",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MATH102-CENG",
+            "name": "CALCULUS II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG114",
+            "name": "COMPUTER PROGRAMMING II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS102-CENG",
+            "name": "PHYSICS II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS104-CENG",
+            "name": "PHYSICS LABORATORY II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TDL102-CENG",
+            "name": "TÜRK DİLİ II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TIT102-CENG",
+            "name": "TÜRK İNKILAP TARİHİ I",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG201",
+            "name": "OBJECT ORIENTED PROGRAMMING",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG203",
+            "name": "DIGITAL DESIGN",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG205",
+            "name": "ELECTRICAL CIRCUITS and ELECTRONIC DEVICES",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENGR201-CENG",
+            "name": "ENGINEERING MATHEMATICS I",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENGR260-CENG",
+            "name": "PRINCIPLES OF OCCUPATIONAL HEALTH",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MATH207",
+            "name": "PROBABILITY AND STATISTICS",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG202",
+            "name": "DATA STRUCTURES",
+            "semester": 4,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG204",
+            "name": "COMPUTER SYSTEM ARCHITECTUREI",
+            "semester": 4,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENGR202-CENG",
+            "name": "ENGINEERING MATHEMATICS II",
+            "semester": 4,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG301",
+            "name": "DATABASE MANAGEMENT SYSTEMS",
+            "semester": 5,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG303",
+            "name": "DESIGN AND ANALYSIS OF ALGORITHMS",
+            "semester": 5,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG305",
+            "name": "OPERATING SYSTEMS",
+            "semester": 5,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG307",
+            "name": "SIGNALS AND SYSTEMS",
+            "semester": 5,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CENG310",
+            "name": "Department Elective 1",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG311",
+            "name": "Department Elective 2",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG312",
+            "name": "Department Elective 3",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG313",
+            "name": "Department Elective 4",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG314",
+            "name": "Department Elective 5",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG315",
+            "name": "Department Elective 23",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG401",
+            "name": "Department Elective 6",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG402",
+            "name": "Department Elective 7",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG403",
+            "name": "Department Elective 8",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG404",
+            "name": "Department Elective 9",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG405",
+            "name": "Department Elective 10",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG406",
+            "name": "Department Elective 11",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG407",
+            "name": "Department Elective 12",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG408",
+            "name": "Department Elective 13",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG409",
+            "name": "Department Elective 14",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG410",
+            "name": "Department Elective 15",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG417",
+            "name": "Department Elective 22",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG419",
+            "name": "Department Elective 21",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG411",
+            "name": "Department Elective 16",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG412",
+            "name": "Department Elective 17",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG413",
+            "name": "Department Elective 18",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG414",
+            "name": "Department Elective 19",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG415",
+            "name": "Department Elective 20",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG416",
+            "name": "Department Elective 21",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG424",
+            "name": "Department Elective 26",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG425",
+            "name": "Department Elective 27",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG420",
+            "name": "Department Elective 28",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG421",
+            "name": "Department Elective 29",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG422",
+            "name": "Department Elective 30",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CENG423",
+            "name": "Department Elective 31",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MATH101-MCE",
+            "name": "Calculus 1",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS101-MCE",
+            "name": "PHYSICS I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENG101-MCE",
+            "name": "Academic English",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS103-MCE",
+            "name": "PHYSICS LABORATORY I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CHEM101-MCE",
+            "name": "INTRODUCTION TO COMPUTER ENGINEERING",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TİT101-MCE",
+            "name": "TÜRK İNKILAP TARİHİ I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TDL101-MCE",
+            "name": "TÜRK DİLİ I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MCE101",
+            "name": "Introduction to Mechanical Engineering",
+            "semester": 1,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE103",
+            "name": "Computer Aided Technical Drawing I",
+            "semester": 1,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MATH102-MCE",
+            "name": "CALCULUS II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS102-MCE",
+            "name": "PHYSICS II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS104-MCE",
+            "name": "PHYSICS LABORATORY II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TDL102-MCE",
+            "name": "TÜRK DİLİ II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TIT102-MCE",
+            "name": "TÜRK İNKILAP TARİHİ I",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENG102-MCE",
+            "name": "ACADEMIC ENGLISH II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MCE102",
+            "name": "Statics",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE104",
+            "name": "Computer Aided Technical Drawing II",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE106",
+            "name": "Computer Programming",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "ENGR201-MCE",
+            "name": "ENGINEERING MATHEMATICS I",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+         {
+            "code": "ENGR260-MCE",
+            "name": "PRINCIPLES OF OCCUPATIONAL HEALTH",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MCE201",
+            "name": "Material Science",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE203",
+            "name": "Thermodynamics I",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE209",
+            "name": "Manufacturing Technologies I",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "ENGR213-MCE",
+            "name": "Technical English",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "ENGR202-MCE",
+            "name": "ENGINEERING MATHEMATICS II",
+            "semester": 4,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "MCE204",
+            "name": "Thermodynamics II",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE210",
+            "name": "Strength of Materials II",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE206",
+            "name": "Dynamics",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE207",
+            "name": "Principles of Electrical and Electronics Engineering",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE212",
+            "name": "Manufacturing Technologies II",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MCE310",
+            "name": "Department Elective 1",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE311",
+            "name": "Department Elective 2",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE312",
+            "name": "Department Elective 3",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE313",
+            "name": "Department Elective 4",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE314",
+            "name": "Department Elective 5",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE315",
+            "name": "Department Elective 24",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE401",
+            "name": "Department Elective 6",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE402",
+            "name": "Department Elective 7",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE403",
+            "name": "Department Elective 8",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE404",
+            "name": "Department Elective 9",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE405",
+            "name": "Department Elective 10",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE418",
+            "name": "Department Elective 23",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE406",
+            "name": "Department Elective 11",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE407",
+            "name": "Department Elective 12",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE408",
+            "name": "Department Elective 13",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE409",
+            "name": "Department Elective 14",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE410",
+            "name": "Department Elective 15",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE417",
+            "name": "Department Elective 22",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE411",
+            "name": "Department Elective 16",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE412",
+            "name": "Department Elective 17",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE413",
+            "name": "Department Elective 18",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE414",
+            "name": "Department Elective 19",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE415",
+            "name": "Department Elective 20",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE424",
+            "name": "Department Elective 25",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE425",
+            "name": "Department Elective 26",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE419",
+            "name": "Department Elective 27",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE420",
+            "name": "Department Elective 28",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE421",
+            "name": "Department Elective 29",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE422",
+            "name": "Department Elective 30",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE423",
+            "name": "Department Elective 31",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MCE416",
+            "name": "Department Elective 21",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "MATH101-CE",
+            "name": "Calculus 1",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS101-CE",
+            "name": "PHYSICS I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENG101-CE",
+            "name": "Academic English",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CHEM101-CE",
+            "name": "INTRODUCTION TO COMPUTER ENGINEERING",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TİT101-CE",
+            "name": "TÜRK İNKILAP TARİHİ I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TDL101-CE",
+            "name": "TÜRK DİLİ I",
+            "semester": 1,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CE101",
+            "name": "INTRODUCTION TO CIVIL ENGINEERING",
+            "semester": 1,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE103",
+            "name": "TECHNICAL DRAWING FOR CIVIL ENGINEERING",
+            "semester": 1,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "MATH102-CE",
+            "name": "CALCULUS II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS102-CE",
+            "name": "PHYSICS II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "PHYS104-CE",
+            "name": "PHYSICS LABORATORY II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TDL102-CE",
+            "name": "TÜRK DİLİ II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "TIT102-CE",
+            "name": "TÜRK İNKILAP TARİHİ I",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENG102-CE",
+            "name": "ACADEMIC ENGLISH II",
+            "semester": 2,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CE102",
+            "name": "COMPUTER PROGRAMMING",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE112",
+            "name": "STATICS",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE124",
+            "name": "GEOLOGY FOR CIVIL ENGINEERING",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE124",
+            "name": "GEOLOGY FOR CIVIL ENGINEERING",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE124",
+            "name": "GEOLOGY FOR CIVIL ENGINEERING",
+            "semester": 2,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "ENGR201-CE",
+            "name": "ENGINEERING MATHEMATICS I",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+         {
+            "code": "ENGR260-CE",
+            "name": "PRINCIPLES OF OCCUPATIONAL HEALTH",
+            "semester": 3,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "ENGR213-CE",
+            "name": "Technical English",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE201",
+            "name": "MATERIAL SCIENCE",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE203",
+            "name": "STRENGTH OF MATERIALS 1",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        
+        {
+            "code": "CE205",
+            "name": "DYNAMICS",
+            "semester": 3,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "ENGR202-CE",
+            "name": "ENGINEERING MATHEMATICS II",
+            "semester": 4,
+            "course_capacity" : 20,
+            "elective": false
+        },
+        {
+            "code": "CE210",
+            "name": "PROBABILITY AND STATISTICS",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE204",
+            "name": "STRENGTH OF MATERIALS 2",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE222",
+            "name": "FLUID MECHANICS",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE202",
+            "name": "CONSTRUCTION MATERIALS",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE206",
+            "name": "SURVEYING",
+            "semester": 4,
+            "course_capacity" : 50,
+            "elective": false
+        },
+        {
+            "code": "CE310",
+            "name": "Department Elective 1",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE311",
+            "name": "Department Elective 2",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE312",
+            "name": "Department Elective 3",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE313",
+            "name": "Department Elective 4",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE314",
+            "name": "Department Elective 5",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE315",
+            "name": "Department Elective 21",
+            "semester": 5,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE401",
+            "name": "Department Elective 6",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE402",
+            "name": "Department Elective 7",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE403",
+            "name": "Department Elective 8",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE404",
+            "name": "Department Elective 9",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE405",
+            "name": "Department Elective 10",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE418",
+            "name": "Department Elective 24",
+            "semester": 6,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE406",
+            "name": "Department Elective 11",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE407",
+            "name": "Department Elective 12",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE408",
+            "name": "Department Elective 13",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE409",
+            "name": "Department Elective 14",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE410",
+            "name": "Department Elective 15",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE417",
+            "name": "Department Elective 23",
+            "semester": 7,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE411",
+            "name": "Department Elective 16",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE412",
+            "name": "Department Elective 17",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE413",
+            "name": "Department Elective 18",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE414",
+            "name": "Department Elective 19",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE415",
+            "name": "Department Elective 20",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE416",
+            "name": "Department Elective 22",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE419",
+            "name": "Department Elective 25",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE424",
+            "name": "Department Elective 26",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE425",
+            "name": "Department Elective 27",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE420",
+            "name": "Department Elective 28",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE421",
+            "name": "Department Elective 29",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE422",
+            "name": "Department Elective 30",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        },
+        {
+            "code": "CE423",
+            "name": "Department Elective 31",
+            "semester": 8,
+            "course_capacity" : 30,
+            "elective": true
+        }
+    ],
+    "room": [
+        {
+            "name": "R3",
+            "lab": true,
+            "size": 50
+        },    
+        {
+            "name": "R4",
+            "lab": false,
+            "size": 50
+        },
+        {
+            "name": "R5",
+            "lab": true,
+            "size": 50
+        },    
+        {
+            "name": "R6",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R7",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R8",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R9",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R10",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R11",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R12",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R13",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R14",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R15",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R16",
+            "lab": false,
+            "size": 50
+        },    
+        {
+            "name": "R17",
+            "lab": false,
+            "size": 50
+        }
+
+    ],
+    "department": [
+        {
+            "name":"Computer Engineering",
+            "code": "CENG",
+            "courses": [
+                "ENG101-CENG", "MATH101-CENG", "CENG113", "CHEM101-CENG", "PHYS101-CENG","PHYS103-CENG", 
+                "TİT101-CENG", "TDL101-CENG", "ENG102-CENG","MATH104","MATH102-CENG", "CENG114", 
+                "PHYS102-CENG", "PHYS104-CENG", "TDL102-CENG", "TIT102-CENG", "CENG201", "CENG203", 
+                "CENG205", "ENGR201-CENG","ENGR260-CENG", "MATH207", "CENG202", "CENG204", "ENGR202-CENG",
+                "CENG301", "CENG303", "CENG305", "CENG307", "CENG310","CENG311", "CENG312", "CENG313", 
+                "CENG314", "CENG401","CENG402", "CENG403", "CENG404", "CENG405", "CENG406","CENG407", 
+                "CENG408", "CENG409", "CENG410", "CENG411", "CENG412",
+                "CENG413", "CENG414", "CENG414", "CENG415", "CENG416",
+                "CENG417", "CENG315", "CENG419", "CENG420", "CENG421", "CENG422", "CENG423", "CENG424", "CENG425"
+            ]
+        },
+        {
+            "name": "Mechanical Engineering",
+            "code": "MCE",
+            "courses": [
+                "MATH101-MCE", "PHYS101-MCE", "PHYS103-MCE", "CHEM101-MCE", "ENG101-MCE", "TİT101-MCE", 
+                "TDL101-MCE", "MCE101", "MCE103", "MATH102-MCE", "PHYS102-MCE", "PHYS104-MCE", "TIT102-MCE", 
+                "TDL102-MCE", "ENG102-MCE","MCE104", "MCE106", "ENGR201-MCE", "ENGR260-MCE", "MCE201", 
+                "MCE203", "MCE209", "ENGR213-MCE", "ENGR202-MCE", "MCE204","MCE210", "MCE206", "MCE207", 
+                "MCE212", "MCE310","MCE311", "MCE312", "MCE313", "MCE314", "MCE401","MCE402", "MCE403", 
+                "MCE404", "MCE405", "MCE406","MCE407", "MCE408", "MCE409", "MCE410", "MCE416", "MCE415", "MCE414",
+                "MCE414", "MCE413", "MCE412", "MCE411", "MCE417",
+                "MCE418", "MCE315", "MCE419", "MCE420", "MCE421", 
+                "MCE422", "MCE423", "MCE424", "MCE425"
+
+            ]
+        },
+        {
+            "name": "Civil Engineering",
+            "code": "CE",
+            "courses": [
+                "MATH101-CE", "PHYS101-CE", "ENG101-CE", "CHEM101-CE", "TİT101-CE", "TDL101-CE", "CE101", 
+                "CE103", "MATH102-CE", "PHYS102-CE", "PHYS104-CE", "ENG102-CE", "TIT102-CE", "TDL102-CE", 
+                "CE102", "CE112", "CE124", "ENGR201-CE", "ENGR213-CE", "CE205","CE203", "CE201", "ENGR202-CE", 
+                "ENGR260-CE", "CE210","CE204", "CE222", "CE202", "CE206", "CE310", "CE311", "CE312", "CE313", 
+                "CE314", "CE401", "CE402", "CE403", "CE404", "CE405", "CE406", "CE407", "CE408", "CE409", "CE410", 
+                "CE411", "CE412", "CE413", "CE414", "CE415", "CE315",
+                "CE416", "CENG417", "CE418", "CE419", "CE420", "CE421", "CE422", "CE423", "CE424", "CE425"
+            ]
+        },
+        {
+            "name": "Metallurgy and Materials Engineering",
+            "code": "MSE",
+            "courses": [
+                
+            ]
+        },
+        {
+            "name": "Software Engineering",
+            "code": "SENG",
+            "courses": [
+
+            ]
+        },
+        {
+            "name": "ELECTRICAL AND ELECTRONIC ENGINEERING",
+            "code": "EE",
+            "courses": [
+
+            ]
+        }
+    ],
+    "group": [
+        {
+
+        }
+    ]
+}
